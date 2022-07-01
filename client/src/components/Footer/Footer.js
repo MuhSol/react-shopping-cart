@@ -1,10 +1,11 @@
 import React from 'react';
 import "../../css/Footer/Footer.css"
+import { strings } from '../../strings';
 
 function Footer() {
   return (
     <footer>
-        <h4>&copy; copyrights Muhammad Soliman, 2021</h4>
+        <h4>{strings.FooterTitle}</h4>
     </footer>
   )
 }

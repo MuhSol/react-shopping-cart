@@ -1,0 +1,34 @@
+[
+    {
+        "id": "id1",
+        "title": "camera",
+        "imageUrl": "/images/camera.jpg",
+        "desc": "This is camera",
+        "price": 350,
+        "sizes": ["S", "M"]
+    },
+    {
+        "id": "id2",
+        "title": "designer Bundel",
+        "imageUrl": "/images/designer-bundel.jpg",
+        "desc": "This is Designer Bundel",
+        "price": 1050,
+        "sizes": ["S", "M", "L"]
+    },
+    {
+        "id": "id3",
+        "title": "lences",
+        "imageUrl": "/images/lences.jpg",
+        "desc": "This is lences",
+        "price": 200,
+        "sizes": ["S", "L"]
+    },
+    {
+        "id": "id4",
+        "title": "phones",
+        "imageUrl": "/images/phones.jpg",
+        "desc": "This is phones",
+        "price": 500,
+        "sizes": ["S", "M"]
+    }
+]
