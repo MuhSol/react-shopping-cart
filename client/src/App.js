@@ -1,15 +1,14 @@
+import Header from "./components/Header/Header";
 
 function App() {
   return (
     <div className="layout">
-        <header>
-          <h2>Shopping Cart</h2>
-        </header>
+        <Header />
         <main>
           <h2>Content</h2>
         </main>
         <footer>
-          <h2>Footer</h2>
+          <h4>Footer</h4>
         </footer>
     </div>
   );
